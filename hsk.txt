@@ -1,0 +1,901 @@
+(noun: neighboring / surrounding)
+
+The hotel is surrounded by many attractions and delicious food, making it an ideal choice for travelers.
+&&&
+(周边zhōubiān)
+
+(Jiǔdiàn zhōubiān yǒu hěn duō jǐngdiǎn hé měishí, shì lǚyóuzhě lǐxiǎng de xuǎnzé.)
+
+酒店周边有很多景点和美食，是旅游者理想的选择。
+$$$
+(adjective: careful / thorough)
+
+Completing a project requires careful planning and precise execution.
+&&&
+(周密zhōumì)
+
+(Zuò hǎo yī gè xiàngmù xūyào zhōumì de jìhuà hé jīngquè de zhíxíng.)
+做好一个项目需要周密的计划和精确的执行。
+$$$
+(noun: anniversary)
+
+Our company just celebrated its 10th anniversary.
+&&&
+(周年zhōunián)
+
+(Wǒmen gōngsī gānggang qìngzhù le chénglì shí zhōunián de zhōunián jìniànrì.)
+我们公司刚刚庆祝了成立十周年的周年纪念日。
+$$$
+(noun: period / cycle)
+
+The menstrual cycle usually lasts around 28 days.
+&&&
+(周期zhōuqī)
+
+(Yuèjīng zhōuqī tōngcháng shì èrshí bā tiān zuǒyòu.)
+月经周期通常是二十八天左右。
+$$$
+(noun: wrinkle)
+
+As she is getting older, more and more wrinkles appear on her face.
+&&&
+(皱纹zhòuwén)
+
+(Suízhe niánlíng de zēngzhǎng, yuèláiyuè duō de zhòuwén chūxiàn zài tā de liǎn shang.)
+随着年龄的增长，越来越多的皱纹出现在她的脸上。
+$$$
+(noun: day and night / period of 24 hours)
+
+The rotation of the Earth causes the alternation of day and night.
+&&&
+(昼夜zhòuyè)
+
+(Dìqiú zìzhuàn dǎozhì le zhòuyè de jiāotì.)
+地球自转导致了昼夜的交替。
+$$$
+(noun: twists and turns / setbacks)
+
+After several twists and turns, he finally got the job of his dreams.
+&&&
+(周折zhōuzhé)
+
+(Jīngguò jǐ fān zhōuzhé, tā zuìzhōng huòdé le zìjǐ mèngmèiyǐqiú de zhíwèi.)
+经过几番周折，他最终获得了自己梦寐以求的职位。
+$$$
+(verb: to circulate [cash, stock, etc.])
+
+Due to the poor capital turnover, the company's business situation was in trouble for a period of time.
+&&&
+(周转zhōuzhuǎn)
+
+(Yóuyú zījīn zhōuzhuǎn bù chàng, gōngsī de jīngyíng zhuàngkuàng yīdù xiànrù kùnjìng.)
+由于资金周转不畅，公司的经营状况一度陷入困境。
+$$$
+(classifier: for plants and trees)
+
+This cactus grows very abundantly in the desert.
+&&&
+(株zhū)
+
+(Zhè zhū xiānrénzhǎng zài huāngmò zhōng shēngzhǎng de fēicháng màoshèng.)
+这株仙人掌在荒漠中生长得非常茂盛。
+$$$
+(verb: to lean on [a stick, etc.])
+
+She fell while skiing and had to use crutches to get home.
+&&&
+(拄zhǔ)
+
+(Tā zài huáxuě shí shuāidǎo le, bùdébù zhǔ zhe guǎizhàng huíjiā.)
+她在滑雪时摔倒了，不得不拄着拐杖回家。
+$$$
+(verb: to organize / to sponsor / to host [a conference or sports event])
+
+This event is organized by our company.
+&&&
+(主办zhǔbàn)
+
+(Zhè cì huódòng shì yóu wǒmen gōngsī zhǔbàn de.)
+这次活动是由我们公司主办的。
+$$$
+(verb: to take the lead / to dominate)
+
+The internet has dominated our ways of life.
+&&&
+(主导zhǔdǎo)
+
+(Hùliánwǎng yǐjīng zhǔdǎo le wǒmen de shēnghuófāngshì.)
+互联网已经主导了我们的生活方式。
+$$$
+(noun: person in charge / manager)
+
+He has been appointed as the new sales supervisor, responsible for overseeing the sales team's performance.
+&&&
+(主管zhǔguǎn)
+
+(Tā bèi rènmìng wéi xīn de xiāoshòu zhǔguǎn, fùzé jiāndū xiāoshòu tuánduì de yèjì.)
+他被任命为新的销售主管，负责监督销售团队的业绩。
+$$$
+(noun: assistant)
+
+My assistant will help me in handling all the emails and phone calls.
+&&&
+(助理zhùlǐ)
+
+(Wǒ de zhùlǐ jiāng huì xiézhù wǒ chǔlǐ suǒyǒu de yóujiàn hé diànhuà.)
+我的助理将会协助我处理所有的邮件和电话。
+$$$
+(noun: mainstream [culture, etc.])
+
+Social media has become the mainstream way of communication in modern society.
+&&&
+(主流zhǔliú)
+
+(Shèjiāoméitǐ zài xiàndài shèhuì zhōng yǐjīng chéngwéi le zhǔliú de gōutōng fāngshì.)
+社交媒体在现代社会中已经成为了主流的沟通方式。
+$$$
+(adverb: year after year)
+
+Due to climate issues, the water resources of this city are decreasing year after year.
+&&&
+(逐年zhúnián)
+
+(Yóuyú qìhòu wèntí, zhè zuò chéngshì de shuǐ zīyuán zài zhúnián jiǎnshǎo.)
+由于气候问题，这座城市的水资源在逐年减少。
+$$$
+(noun: sovereignty)
+
+No country should infringe upon the sovereignty of other countries.
+&&&
+(主权zhǔquán)
+
+(Rènhé guójiā dōu bù yīnggāi qīnfàn qítā guójiā de zhǔquán.)
+任何国家都不应该侵犯其他国家的主权。
+$$$
+(verb: to inject)
+
+He needs to inject insulin every day to control diabetes.
+&&&
+(注射zhùshè)
+
+(Tā xūyào měitiān zhùshè yídǎosù lái kòngzhì tángniàobìng.)
+他需要每天注射胰岛素来控制糖尿病。
+$$$
+(verb: to look attentively at / to gaze at)
+
+Her eyes were fixed on the distance, as if she was thinking about something.
+&&&
+(注视zhùshì)
+
+(Tā de yǎnjing zhùshì zhe yuǎnfāng, sìhū zài sīkǎo shénme wèntí.)
+她的眼睛注视着远方，似乎在思考什么问题。
+$$$
+(noun: annotation / marginal notes)
+
+The annotations below this book explain some unfamiliar thoughts and concepts.
+&&&
+(注释zhùshì)
+
+(Zhè běn shū xiàmiàn de zhùshì jiěshì le yīxiē mòshēng de sīxiǎng hé gàiniàn.)
+这本书下面的注释解释了一些陌生的思想和概念。
+$$$
+(noun: assistant / helper)
+
+I am an AI assistant who can help you solve various problems.
+&&&
+(助手zhùshǒu)
+
+(Wǒ shì yī gè AI zhùshǒu, kěyǐ bāngzhù nín jiějué gèzhǒng wèntí.)
+我是一个AI助手，可以帮助您解决各种问题。
+$$$
+(noun: subject / theme)
+
+Sustainable development is the theme of this summit.
+&&&
+(主题zhǔtí)
+
+(Kěchíxùfāzhǎn shì zhè cì shǒunǎo huìyì de zhǔtí.)
+可持续发展是这次首脑会议的主题。
+$$$
+(pronoun: [addressing a group of people] ladies and gentlemen / everyone)
+
+Ladies and gentlemen, please enjoy our performance!
+&&&
+(诸位zhūwèi)
+
+(Zhūwèi guānzhòng, qǐng xīnshǎng wǒmen de yǎnchū!)
+诸位观众，请欣赏我们的演出！
+$$$
+(verb: to cast [pour mental into a mold])
+
+With the continuous development of technology, 3D printing technology is gradually replacing traditional casting processes.
+&&&
+(铸造zhùzào)
+
+(Suízhe kējì de bùduàn fāzhǎn, sān D dǎyìn jìshù zhèngzài zhújiàn qǔdài chuántǒng zhùzào gōngyì.)
+随着科技的不断发展，3D打印技术正在逐渐取代传统铸造工艺。
+$$$
+(verb: [of troops] to station)
+
+The soldiers have been stationed here for several months.
+&&&
+(驻扎zhùzhā)
+
+(Shìbīng men zài cǐdì yǐjīng zhùzhā le hǎojǐ gè yuè.)
+士兵们在此地已经驻扎了好几个月。
+$$$
+(noun: residence)
+
+Due to soaring housing prices, many young people can only afford to buy cheap housing in the suburbs.
+&&&
+(住宅zhùzhái)
+
+(Yóuyú fángjià bàozhǎng, hěn duō niánqīngrén zhǐnéng xuǎnzé gòumǎi yuǎnjiāo de liánjià zhùzhái.)
+由于房价暴涨，很多年轻人只能选择购买远郊的廉价住宅。
+$$$
+(verb: to emphasize / to pay attention to)
+
+She pays great attention to her health and she exercises as well as eats healthy food every day.
+&&&
+(注重zhùzhòng)
+
+(Tā hěn zhùzhòng zìjǐ de jiànkāng, měitiān dōu huì yùndòng hé chī jiànkāng de shíwù.)
+她很注重自己的健康，每天都会运动和吃健康的食物。
+$$$
+(noun: literary work)
+
+This book reveals many issues and contradictions in modern society.
+&&&
+(著作zhùzuò)
+
+(Zhè běn zhùzuò jiēshì le xiàndài shèhuì zhōng de xǔduō wèntí hé máodùn.)
+这本著作揭示了现代社会中的许多问题和矛盾。
+$$$
+(verb: to drag / to pull [forcefully])
+
+As I was about to leave, he suddenly grabbed my shirt.
+&&&
+(拽zhuài)
+
+(Dāng wǒ yào zǒu shí, tā tūrán zhuài zhù le wǒ de yīfu.)
+当我要走时，他突然拽住了我的衣服。
+$$$
+(noun: specialty / special skill or knowledge / strength)
+
+His expertise is in Taekwondo, and he has won several championships in competitions.
+&&&
+(专长zhuāncháng)
+
+(Tā de zhuāncháng shì táiquándào, céng duōcì zài bǐsài zhōng huòdé guànjūn.)
+他的专长是跆拳道，曾多次在比赛中获得冠军。
+$$$
+(adverb: special trip)
+
+He took a special trip from Beijing to Shanghai just to reunite with his family.
+&&&
+(专程zhuānchéng)
+
+(Tā zhuānchéng cóng Běijīng fēi dào Shànghǎi, zhǐ wèi yǔ jiārén tuánjù.)
+他专程从北京飞到上海，只为与家人团聚。
+$$$
+(verb: to pass on / to convey / to communicate)
+
+Please convey my gratitude to him.
+&&&
+(转达zhuǎndá)
+
+(Qǐng nǐ zhuǎndá yīxià wǒ duì tā de gǎnjī zhī qíng.)
+请你转达一下我对他的感激之情。
+$$$
+(noun: biography)
+
+This biography provides a detailed account of Einstein's life experiences, ideas, and scientific achievements.
+&&&
+(传记zhuànjì)
+
+(Zhè běn zhuànjì xiángxì jièshào le Àiyīnsītǎn de rénshēng jīnglì, sīxiǎng hé kēxué chéngjiù.)
+这本传记详细介绍了爱因斯坦的人生经历、思想和科学成就。
+$$$
+(noun: specialized subject / specialized training school)
+
+I have completed a two-year associate degree program and I am now preparing to apply for a bachelor's degree.
+&&&
+(专科zhuānkē)
+
+(Wǒ yǐjīng wánchéng le liǎng nián de zhuānkē kèchéng, xiànzài zhǔnbèi shēnqǐng běnkē.)
+我已经完成了两年的专科课程，现在准备申请本科。
+$$$
+(noun: patent)
+
+Their new product uses unique technology and they have applied for patent protection.
+&&&
+(专利zhuānlì)
+
+(Tāmen de xīnchǎnpǐn cǎiyòng le dútè de jìshù, yǐjīng shēnqǐng le zhuānlì bǎohù.)
+他们的新产品采用了独特的技术，已经申请了专利保护。
+$$$
+(verb: to transfer [ownership, rights, etc.])
+
+He agreed to transfer the house to me, but I need to pay additional agency fees.
+&&&
+(转让zhuǎnràng)
+
+(Tā tóngyì jiāng fángzi zhuǎnràng gěi wǒ, dàn wǒ xūyào zhīfù éwài de zhōngjiè fèiyòng.)
+他同意将房子转让给我，但我需要支付额外的中介费用。
+$$$
+(noun: special topic)
+
+There are many articles and guides about health topics on the website.
+&&&
+(专题zhuāntí)
+
+(Wǎngzhàn shang yǒu hěn duō guānyú jiànkāng zhuāntí de wénzhāng hé zhǐnán.)
+网站上有很多关于健康专题的文章和指南。
+$$$
+(noun: tiles and bricks)
+
+It rained yesterday and some of the tiles fell off.
+&&&
+(砖瓦zhuānwǎ)
+
+(Zuótiān xiàyǔ le, yǒuxiē zhuānwǎ diào le xialai.)
+昨天下雨了，有些砖瓦掉了下来。
+$$$
+(verb: to shift / to divert / to transfer)
+
+Medical staff quickly transferred the wounded to a safe place.
+&&&
+(转移zhuǎnyí)
+
+(Yīhùrényuán xùnsù jiāng shāngyuán zhuǎnyí dào le ānquán dìfang.)
+医护人员迅速将伤员转移到了安全地方。
+$$$
+(noun: turning point / unexpected change)
+
+He could not have dreamed that fate would take such a dramatic turn.
+&&&
+(转折zhuǎnzhé)
+
+(Tā zuòmèng yě xiǎngbudào, mìngyùn huì fāshēng rúcǐ xìjùxìng de zhuǎnzhé.)
+他做梦也想不到，命运会发生如此戏剧性的转折。
+$$$
+(classifier: for buildings)
+
+The architectural style of that villa is very unique.
+&&&
+(幢zhuàng)
+
+(Nà zhuàng biéshù de jiànzhù fēnggé hěn dútè.)
+那幢别墅的建筑风格很独特。
+$$$
+(noun: equipment)
+
+I bought new mountaineering gear, including a tent, sleeping bag, trekking poles, etc.
+&&&
+(装备zhuāngbèi)
+
+(Wǒ mǎi le xīn de dēngshān zhuāngbèi, qízhōng bāokuò zhàngpeng, shuìdài, dēngshān zhàng děng.)
+我买了新的登山装备，其中包括帐篷、睡袋、登山杖等。
+$$$
+(adjective: spectacular / magnificent)
+
+The ocean scenery is particularly magnificent at sunset.
+&&&
+(壮观zhuàngguān)
+
+(Zài rìluò shífēn, hǎiyáng de jǐngsè géwài zhuàngguān.)
+在日落时分，海洋的景色格外壮观。
+$$$
+(adjective: magnificent / majestic / glorious)
+
+The Great Wall is the most magnificent ancient architecture I have ever seen in my life.
+&&&
+(壮丽zhuànglì)
+
+(Chángchéng shì wǒ yǒushēngyǐlái jiàn guo de zuì zhuànglì de gǔ jiànzhù.)
+长城是我有生以来见过的最壮丽的古建筑。
+$$$
+(adjective: brave / heroic)
+
+This soldier exchanged his valiant life for the safety of his teammates.
+&&&
+(壮烈zhuàngliè)
+
+(Zhè wèi zhànshì yòng zhuàngliè de shēngmìng huàn lái le duìyǒu de ānquán.)
+这位战士用壮烈的生命换来了队友的安全。
+$$$
+(verb: to load or unload / to assemble or disassemble)
+
+The workers are busy loading and unloading goods on the dock.
+&&&
+(装卸zhuāngxiè)
+
+(Gōngrén men zhèngzài mǎtóu shang mángzhe zhuāngxiè huòwù.)
+工人们正在码头上忙着装卸货物。
+$$$
+(adjective: solemn / dignified / stately)
+
+The solemn atmosphere in the courtroom makes the defendant feel oppressed and nervous.
+&&&
+(庄严zhuāngyán)
+
+(Fǎtíng shang de zhuāngyán qìfēn ràng bèigàorén gǎndào yāyì hé jǐnzhāng.)
+法庭上的庄严气氛让被告人感到压抑和紧张。
+$$$
+(adjective: serious / grave / solemn)
+
+He expressed his views in a solemn tone.
+&&&
+(庄重zhuāngzhòng)
+
+(Tā yòng zhuāngzhòng de yǔqì biǎodá le zìjǐ de jiànjiě.)
+他用庄重的语气表达了自己的见解。
+$$$
+(verb: to mourn a person's death / to pay last respects)
+
+We observed a minute of silence at the memorial service to pay our respects to the deceased.
+&&&
+(追悼zhuīdào)
+
+(Wǒmen zài zhuīdàohuì shang mò'āi le yī fēnzhōng, yǐ biǎodá duì shìzhě de jìngyì.)
+我们在追悼会上默哀了一分钟，以表达对逝者的敬意。
+$$$
+(verb: to investigate / to look into)
+
+The company has started to investigate the employee's dereliction of duty.
+&&&
+(追究zhuījiū)
+
+(Gōngsī yǐjīng kāishǐ zhuóshǒu zhuījiū nà míng yuángōng de shīzhí xíngwéi.)
+公司已经开始着手追究那名员工的失职行为。
+$$$
+(noun: norm / standard / criterion)
+
+In work, we need to follow confidentiality guidelines to ensure that company secrets are not leaked.
+&&&
+(准则zhǔnzé)
+
+(Zài gōngzuò zhōng, wǒmen yào zūnshǒu bǎomì zhǔnzé, quèbǎo gōngsī jīmì bù wàixiè.)
+在工作中，我们要遵守保密准则，确保公司机密不外泄。
+$$$
+(verb: to ponder / to think through)
+
+He spent several days pondering how to improve the product design in order to enhance market competitiveness.
+&&&
+(琢磨zuómo)
+
+(Tā yīlián jǐtiān dōu zài zuómo rúhé gǎijìn chǎnpǐn de shèjì, yǐ tígāo shìchǎng jìngzhēnglì.)
+他一连几天都在琢磨如何改进产品的设计，以提高市场竞争力。
+$$$
+(verb: to set out / to start / to put one's hand to it)
+
+The company is currently working on developing a brand new mobile application.
+&&&
+(着手zhuóshǒu)
+
+(Zhè jiā qǐyè zhèngzài zhuóshǒu kāifā yī kuǎn quánxīn de shǒujī yìngyòngchéngxù.)
+这家企业正在着手开发一款全新的手机应用程序。
+$$$
+(verb: to consider [other people's needs])
+
+As a teacher, we must think from the perspective of our students in order to educate them better.
+&&&
+(着想zhuóxiǎng)
+
+(Zuòwéi yī míng lǎoshī, wǒmen bìxū cóng xuésheng de jiǎodù zhuóxiǎng, cái néng gèng hǎo de jiàoyù tāmen.)
+作为一名老师，我们必须从学生的角度着想，才能更好地教育他们。
+$$$
+(adjective: brilliant / outstanding / distinguished)
+
+This brand has won the trust and loyalty of consumers with its excellent quality and service.
+&&&
+(卓越zhuóyuè)
+
+(Zhège pǐnpái yǐ zhuóyuè de pǐnzhì hé fúwù yíngdé le xiāofèizhě de xìnrèn hé zhōngchéng.)
+这个品牌以卓越的品质和服务赢得了消费者的信任和忠诚。
+$$$
+(verb: to stress / to put emphasis on)
+
+When writing a resume, it's important to emphasize your strengths and experiences.
+&&&
+(着重zhuózhòng)
+
+(Zài xiě jiǎnlì shí, yīnggāi zhuózhòng tūchū zìjǐ de yōudiǎn hé jīngyàn.)
+在写简历时，应该着重突出自己的优点和经验。
+$$$
+(verb: to feel inferior / to have low self-esteem)
+
+He often feels inferior because of his short stature.
+&&&
+(自卑zìbēi)
+
+(Tā chángcháng yīnwèi gèzi bù gāo ér gǎndào zìbēi.)
+他常常因为个子不高而感到自卑。
+$$$
+(noun: capital [economics])
+
+This project requires massive capital to be successfully implemented.
+&&&
+(资本zīběn)
+
+(Zhège xiàngmù xūyào jù'é zīběn cái néng shùnlì tuījìn.)
+这个项目需要巨额资本才能顺利推进。
+$$$
+(noun: property / assets)
+
+The total assets of the company have now exceeded 10 billion dollars.
+&&&
+(资产zīchǎn)
+
+(Gāi gōngsī de zǒng zīchǎn yǐjīng chāoguò le yī bǎi yì měiyuán.)
+该公司的总资产已经超过了一百亿美元。
+$$$
+(noun: bullet / cartridge)
+
+He took out the bullet from the gun chamber and gave up the idea of suicide.
+&&&
+(子弹zǐdàn)
+
+(Tā cóng qiāngtáng lǐ qǔchū le zǐdàn, ránhòu fàngqì le zìshā de niàntou.)
+他从枪膛里取出了子弹，然后放弃了自杀的念头。
+$$$
+(adjective: spontaneous)
+
+People spontaneously donated money to the elderly person to cover his medical expenses.
+&&&
+(自发zìfā)
+
+(Rénmen zìfā de juānkuǎn gěi lǎorén, yǐ zhīfù tā de yīliáo fèiyòng.)
+人们自发地捐款给老人，以支付他的医疗费用。
+$$$
+(idiom: to be self-reliant)
+
+We should encourage young people to be entrepreneurial and self-reliant, rather than dependent on others or on government assistance.
+&&&
+(自力更生zìlìgēngshēng)
+
+(Wǒmen yīnggāi gǔlì niánqīngrén chuàngyè, shíxiàn zìlìgēngshēng, ér bùshì yīlài yú tārén huò zhèngfǔ yuánzhù.)
+我们应该鼓励年轻人创业，实现自力更生，而不是依赖于他人或政府援助。
+$$$
+(adjective: complacent / self-satisfied)
+
+He has achieved many honors, but he hasn't become complacent because of them.
+&&&
+(自满zìmǎn)
+
+(Tā huòdé le hěn duō róngyù, dàn bìng méiyǒu yīncǐ ér chǎnshēng zìmǎn qíngxù.)
+他获得了很多荣誉，但并没有因此而产生自满情绪。
+$$$
+(noun: letter [alphabet])
+
+The first letter of the first word in a sentence needs to be capitalized.
+&&&
+(字母zìmǔ)
+
+(Jùzi de dìyī gè dāncí de shǒuzìmǔ xūyào dàxiě.)
+句子的第一个单词的首字母需要大写。
+$$$
+(adjective: senior / experienced)
+
+He is the most senior employee in our company and has rich work experience.
+&&&
+(资深zīshēn)
+
+(Tā shì wǒmen gōngsī zuì zīshēn de yuángōng, yōngyǒu fēngfù de gōngzuò jīngyàn.)
+他是我们公司最资深的员工，拥有丰富的工作经验。
+$$$
+(noun: posture / stance / pose)
+
+Her posture is graceful and natural, like an elegant ballet dancer.
+&&&
+(姿态zītài)
+
+(Tā de zītài yōuměi zìrán, xiàng yī wèi bālěiwǔ yǎnyuán.)
+她的姿态优美自然，像一位芭蕾舞演员。
+$$$
+(noun: taste / flavour)
+
+We had a taste of victory for the first time and felt really happy.
+&&&
+(滋味zīwèi)
+
+(Wǒmen dìyīcì chángdào le shènglì de zīwèi, xīnli shífēn gāoxìng.)
+我们第一次尝到了胜利的滋味，心里十分高兴。
+$$$
+(verb: to grow / to develop)
+
+After achieving good results, one should prevent the emotions of arrogance and complacency from growing.
+&&&
+(滋长zīzhǎng)
+
+(Qǔdé le hǎo chéngjì, yào fángzhǐ zīzhǎng jiāo'ào zìmǎn de qíngxù.)
+取得了好成绩，要防止滋长骄傲自满的情绪。
+$$$
+(verb: to provide financial aid)
+
+The holding of this art exhibition relies heavily on the sponsorship of various sponsors.
+&&&
+(资助zīzhù)
+
+(Zhège yìshù zhǎnlǎn de jǔbàn, líbukāi gègè zànzhùshāng de zīzhù.)
+这个艺术展览的举办，离不开各个赞助商的资助。
+$$$
+(adjective: autonomous / self-determined / independent)
+
+We should encourage children to think independently, rather than mechanically accepting the views of others.
+&&&
+(自主zìzhǔ)
+
+(Wǒmen yīnggāi gǔlì háizimen zìzhǔ sīkǎo, ér bùshì jīxiè de jiēshòu tārén de guāndiǎn.)
+我们应该鼓励孩子们自主思考，而不是机械地接受他人的观点。
+$$$
+(idiom: in short / in a word)
+
+In short, we have decided to postpone the implementation of this plan.
+&&&
+(总而言之zǒng'éryánzhī)
+
+(Zǒng'éryánzhī, wǒmen juédìng tuīchí zhè xiàng jìhuà de zhíxíng.)
+总而言之，我们决定推迟这项计划的执行。
+$$$
+(noun: sum / total)
+
+The government released the country's total GDP for this year, which is showing steady economic growth.
+&&&
+(总和zǒnghé)
+
+(Zhèngfǔ gōngbù le jīnnián guójiā de GDP zǒnghé, xiǎnshì chū le jīngjì de wěnbù zēngzhǎng.)
+政府公布了今年国家的GDP总和，显示出了经济的稳步增长。
+$$$
+(verb: to roam across the world / to have an extensive influence)
+
+He has been a prominent figure in the film industry for many years, directing a series of globally popular movies.
+&&&
+(纵横zònghéng)
+
+(Tā zài diànyǐng quān zhōng zònghéng duōnián, zhídǎo le yīxìliè quánqiú wénmíng de diànyǐng zuòpǐn.)
+他在电影圈中纵横多年，执导了一系列全球闻名的电影作品。
+$$$
+(noun: trail / trace / footprint)
+
+A hunter found a lion's footprints on the grassland.
+&&&
+(踪迹zōngjì)
+
+(Lièrén zài cǎoyuán shang fāxiàn le shīzi de zōngjì.)
+猎人在草原上发现了狮子的踪迹。
+$$$
+(adjective: brown)
+
+She saw this brown coat in the clothing store and immediately decided to buy it.
+&&&
+(棕色zōngsè)
+
+(Tā zài fúzhuāng diàn lǐ kàndào zhè jiàn zōngsè de dàyī, lìmǎ jiù juédìng mǎi xialai.)
+她在服装店里看到这件棕色的大衣，立马就决定买下来。
+$$$
+(noun: objective / aim / mission)
+
+Our company's mission is to provide customers with the best products and services and to maintain customer satisfaction.
+&&&
+(宗旨zōngzhǐ)
+
+(Wǒmen gōngsī de zōngzhǐ shì wèi kèhù tígōng zuìhǎo de chǎnpǐn hé fúwù, bǎochí kèhù mǎnyìdù.)
+我们公司的宗旨是为客户提供最好的产品和服务，保持客户满意度。
+$$$
+(verb: to beat [somebody] / to hit)
+
+The thief was beaten by the onlookers while he was fleeing.
+&&&
+(揍zòu)
+
+(Xiǎotōu zài táopǎo shí bèi wéiguān qúnzhòng zòu le yī dùn.)
+小偷在逃跑时被围观群众揍了一顿。
+$$$
+(noun: corridor / aisle / passageway)
+
+Her office is at the end of the corridor, on the right side.
+&&&
+(走廊zǒuláng)
+
+(Tā de bàngōngshì zài zǒuláng jìntóu kào yòubian.)
+她的办公室在走廊尽头靠右边。
+$$$
+(verb: to leak out / to divulge)
+
+The news leaked out and now everyone knows about it.
+&&&
+(走漏zǒulòu)
+
+(Zhège xiāoxi zǒulòu le, xiànzài suǒyǒu rén dōu zhīdào le.)
+这个消息走漏了，现在所有人都知道了。
+$$$
+(verb: to smuggle)
+
+Smuggling drugs is a serious criminal offense.
+&&&
+(走私zǒusī)
+
+(Zǒusī dúpǐn shì yī zhǒng yánzhòng de fànzuìxíngwéi.)
+走私毒品是一种严重的犯罪行为。
+$$$
+(verb: to organize / to form)
+
+We formed a band and plan to perform at the school's music festival.
+&&&
+(组zǔ)
+
+(Wǒmen zǔ le yī gè yuèduì, jìhuà zài xuéxiào yīnyuèjié shang biǎoyǎn.)
+我们组了一个乐队，计划在学校音乐节上表演。
+$$$
+(verb: to obstruct / to hinder / to block)
+
+The trade war has hindered economic development between the two countries.
+&&&
+(阻碍zǔ'ài)
+
+(Màoyìzhàn zǔ'ài le liǎngguózhījiān de jīngjìfāzhǎn.)
+贸易战阻碍了两国之间的经济发展。
+$$$
+(noun: grandfather [paternal] / father's father)
+
+My grandfather used to tell me stories when I was a child.
+&&&
+(祖父zǔfù)
+
+(Wǒ de zǔfù zài wǒ xiǎoshíhou chángcháng gěi wǒ jiǎng gùshi.)
+我的祖父在我小时候常常给我讲故事。
+$$$
+(verb: to stop / to obstruct)
+
+The young man repeatedly tried to approach the stage, but was blocked by the security guard.
+&&&
+(阻拦zǔlán)
+
+(Nàge niánqīngrén yīzài shìtú kàojìn wǔtái, dàn bèi bǎo'ān zǔlán le.)
+那个年轻人一再试图靠近舞台，但被保安阻拦了。
+$$$
+(verb: to lease / to rent)
+
+Our company provides car rental services with various brands and models.
+&&&
+(租赁zūlìn)
+
+(Wǒmen gōngsī tígōng gèzhǒng pǐnpái hé xínghào de qìchē zūlìn fúwù.)
+我们公司提供各种品牌和型号的汽车租赁服务。
+$$$
+(verb: to thwart / to obstruct)
+
+Her parents once tried to stop her from marrying her boyfriend.
+&&&
+(阻挠zǔnáo)
+
+(Tā de fùmǔ céngjīng shìtú zǔnáo tā gēn tā de nányǒu jiéhūn.)
+她的父母曾经试图阻挠她跟她的男友结婚。
+$$$
+(adverb: enough / sufficient)
+
+The salary for this job is sufficient to meet my everyday needs.
+&&&
+(足以zúyǐ)
+
+(Zhè fèn gōngzuò de xīnzī zúyǐ mǎnzú wǒ de shēnghuó xūqiú.)
+这份工作的薪资足以满足我的生活需求。
+$$$
+(noun: diamond)
+
+As a birthday gift, he gave his girlfriend a pair of diamond earrings.
+&&&
+(钻石zuànshí)
+
+(Zuòwéi shēngrì lǐwù, tā sònggěi le nǚyǒu yī duì zuànshí ěrhuán.)
+作为生日礼物，他送给了女友一对钻石耳环。
+$$$
+(verb: to study intensively / to dig into)
+
+He is very passionate about studying the history of medieval Europe.
+&&&
+(钻研zuānyán)
+
+(Tā fēicháng xǐhuan zuānyán zhōngshìjì shíqī de Ōuzhōu lìshǐ.)
+他非常喜欢钻研中世纪时期的欧洲历史。
+$$$
+(noun: lip)
+
+Her lips are full and rosy, which look very sexy.
+&&&
+(嘴唇zuǐchún)
+
+(Tā de zuǐchún hóngrùn bǎomǎn, kànqǐlai fēicháng xìnggǎn.)
+她的嘴唇红润饱满，看起来非常性感。
+$$$
+(verb: to follow / to abide by)
+
+Learning a language must follow the principle of progressing step by step.
+&&&
+(遵循zūnxún)
+
+(Xuéxí yǔyán bìxū zūnxún xúnxùjiànjìn de yuánzé.)
+学习语言必须遵循循序渐进的原则。
+$$$
+(noun: dignity / honor)
+
+Life is so ruthless that it deprives a laborer of even the most basic dignity.
+&&&
+(尊严zūnyán
+
+(Shēnghuó shì rúcǐ wúqíng, tā shǐ yī gè láodòngzhě lián qǐmǎ de zūnyán dōu bùnéng bǎochí!)
+生活是如此无情，它使一个劳动者连起码的尊严都不能保持！
+$$$
+(verb: to cheat / to practice fraud)
+
+Cheating in exams will be severely punished.
+&&&
+(作弊zuòbì)
+
+(Zài kǎoshì zhōng zuòbì huì shòudào yánlì de chéngfá.)
+在考试中作弊会受到严厉的惩罚。
+$$$
+(verb: to act as host)
+
+Tonight I will be the host and will buy everyone Japanese food.
+&&&
+(做东zuòdōng)
+
+(Jīntiān wǎnshang wǒ zuòdōng, qǐng dàjiā chī rìshì liàolǐ.)
+今天晚上我做东，请大家吃日式料理。
+$$$
+(verb: to become invalid / to cancel / to nullify)
+
+Due to the application having been improperly filled, it has been invalidated and needs to be resubmitted.
+&&&
+(作废zuòfèi)
+
+(Yóuyú xìnxī tiánxiě cuòwù, gāi shēnqǐng yǐ bèi zuòfèi, xūyào chóngxīn tíjiāo.)
+由于信息填写错误，该申请已被作废，需要重新提交。
+$$$
+(noun: style / style of work)
+
+His consistent rigorous work style has won wide acclaim within the company.
+&&&
+(作风zuòfēng)
+
+(Tā yīguàn de yánjǐn zuòfēng zài gōngsī nèi yíngdé le guǎngfàn de zànyù.)
+他一贯的严谨作风在公司内赢得了广泛的赞誉。
+$$$
+(verb: to work and rest)
+
+My daily routine is very regular. I wake up at 7am every morning and go to bed at 11pm every night.
+&&&
+(作息zuòxī)
+
+(Wǒ de zuòxīshíjiān hěn guīlǜ, měitiān zǎoshang qī diǎn qǐchuáng, wǎnshang shí yī diǎn shuìjiào.)
+我的作息时间很规律，每天早上七点起床，晚上十一点睡觉。
+$$$
+(verb: to control / to influence)
+
+The result of this election will have an impact on the future of the whole country.
+&&&
+(左右zuǒyòu)
+
+(Zhè cì xuǎnjǔ de jiéguǒ jiāng huì zuǒyòu zhěnggè guójiā de wèilái.)
+这次选举的结果将会左右整个国家的未来。
+$$$
+(noun: motto / maxim)
+
+Contentment brings happiness, which has always been my motto.
+&&&
+(座右铭zuòyòumíng)
+
+(Zhīzúchánglè, shì wǒ yīzhíyǐlái de zuòyòumíng.)
+知足常乐，是我一直以来的座右铭。
+$$$
+(verb: to decide / to take the responsibility for a decision)
+
+He is usually the one who takes charge in making decisions at home.
+&&&
+(做主zuòzhǔ)
+
+(Zài jiātíng juécè zhōng, tā tōngcháng shì zuòzhǔ de nàge rén.)
+在家庭决策中，他通常是做主的那个人。
+$$$
